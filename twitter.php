@@ -23,19 +23,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 */
 /**
- * @package twitter
- * @version 2.0.3
+ * @package nottwitter
+ * @version 2.0.4
  */
 /*
-Plugin Name: Twitter
+Plugin Name: nottwitter
 GitHub Plugin URI: https://github.com/peterthomasross/wordpress
 Plugin URI:  http://wordpress.org/plugins/twitter/
 Description: Official Twitter plugin for WordPress. Embed Twitter content and grow your audience on Twitter. Requires PHP 5.4 or greater.
-Version:     2.0.3
-Author:      Twitter
+Version:     2.0.4
+Author:      nottwitter
 Author URI:  https://dev.twitter.com/
 License:     MIT
-Text Domain: twitter
+Text Domain: nottwitter
 */
 
 // make sure the plugin does not expose any info if called directly
